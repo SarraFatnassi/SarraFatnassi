@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarraFatnassi
-- 👀 I’m interested in Web devlopment and the field of data
+- 👀 I’m interested in Web development and the field of data
 
 - 📫 How to reach me Sarrafatnassi12@gmail.com
 
